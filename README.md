@@ -1,4 +1,4 @@
-                                                                                                          <h1>VISUALIZATION OF ACCIDENT HOTSPOTS</h1>
+<h1>VISUALIZATION OF ACCIDENT HOTSPOTS:</h1>
 
 <h1>Accidents by Hour:</h1>
 <img width="700" height="470" alt="download" src="https://github.com/user-attachments/assets/1dd9a3b8-2e63-4585-8d57-346e32cb99de" />
